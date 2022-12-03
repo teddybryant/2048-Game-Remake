@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p {
+  font-size: 20px;
+  width: 500px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  display: flex;
+}
+h1 {
+  font-size: 60px;
+}
+hr {
+  width: 500px;
+}
+
+#panel {
+    width: 500px;
+    height: 500px;
+
+    background-color: #B2C8DF;
+    border: 8px solid #000000;
+
+    margin: 0 auto;
+    flex-wrap: wrap;
+    display: flex;
+   
+}
+
+.square {
+    width: 105px;
+    height: 105px;
+    border: 10px solid #6E85B7;
+
+    font-weight: bold;
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.the2 {
+    color: black;
+    background-color: #CDFCF6;
+}
+
+.the4 {
+    color: black;
+    background-color: #38A3A5;
+}
+
+.the8 {
+    color: black;
+    background-color: #57CC99;
+}
+
+.the16{
+    color: black;
+    background-color: #80ED99;
+}
+
+.the32{
+    color: black;
+    background-color: #CCF6C8;
+}
+
+.the64{
+    color: black;
+    background-color: #FAFCC2;
+}
+
+.the128{
+    color: black;
+    background-color: #F6D6AD;
+}
+
+.the256{
+    color: black;
+    background-color: #F9C0C0;
+}
+
+.the512{
+    color: black;
+    background-color: #F1AE89;
+}
+
+.the1024{
+    color: black;
+    background-color: #D68060;
+}
+
+.the2048{
+    color: black;
+    background-color: #D35D6E;
+}
